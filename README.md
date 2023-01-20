@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is ismail
 
-![ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailToyran&count_private=true&theme=city_lights)
+![ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailToyran&count_private=true&theme=city_lights&show_icons=true)
 
 <!--
 **ismailToyran/ismailToyran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
